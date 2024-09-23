@@ -1,0 +1,1 @@
+we thought that git and github and both are same but it is they were competely different y because git is used for giving commands for creating repo in github that's it.
